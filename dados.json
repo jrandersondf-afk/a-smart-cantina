@@ -1,0 +1,85 @@
+{
+  "projeto": "Smart Cantina SENAI",
+  "slogan": "A cantina do futuro na palma da sua mão.",
+  "prototipo": "https://www.figma.com/proto/iUIHPKjtHbTB9P8I5MVYcY/Sem-t%C3%ADtulo?node-id=1-2&scaling=min-zoom&page-id=0%3A1",
+  "equipe": [
+    {
+      "nome": "Tiago Hiroshi Abé da Silva",
+      "cargo": "Product Owner"
+    },
+    {
+      "nome": "Samuel Borborema Campos",
+      "cargo": "Dev Team"
+    },
+    {
+      "nome": "Anderson Dias França Junior",
+      "cargo": "Scrum Master"
+    }
+  ],
+  "calendario": [
+    {
+      "dia": "Dia 1",
+      "o_que_sai": "Post sobre as filas e a demora no intervalo",
+      "onde": "Instagram · feed",
+      "responsavel": "Tiago"
+    },
+    {
+      "dia": "Dia 2",
+      "o_que_sai": "Post com a solução, print do cardápio e slogan",
+      "onde": "Instagram · feed",
+      "responsavel": "Samuel"
+    },
+    {
+      "dia": "Dia 3",
+      "o_que_sai": "Post da pesquisa com 4 de 5 respostas favoráveis",
+      "onde": "Instagram · feed",
+      "responsavel": "Anderson"
+    },
+    {
+      "dia": "Dia 4",
+      "o_que_sai": "Carrossel com os três passos de uso do cardápio",
+      "onde": "Instagram · feed",
+      "responsavel": "Samuel"
+    },
+    {
+      "dia": "Dia 5",
+      "o_que_sai": "Banner com o slogan e o botão «Conheça»",
+      "onde": "Site do projeto",
+      "responsavel": "Samuel"
+    },
+    {
+      "dia": "Dia 6",
+      "o_que_sai": "Banner animado sobre a fila e o cardápio digital",
+      "onde": "TV da escola",
+      "responsavel": "Anderson"
+    },
+    {
+      "dia": "Dia 7",
+      "o_que_sai": "Cartaz A4 com três vantagens e o QR Code",
+      "onde": "Mural da cantina",
+      "responsavel": "Tiago"
+    },
+    {
+      "dia": "Dia 8",
+      "o_que_sai": "Story com a enquete «Escolha seu lanche»",
+      "onde": "Instagram · stories",
+      "responsavel": "Anderson"
+    },
+    {
+      "dia": "Dia 9",
+      "o_que_sai": "Votação e teste do cardápio no intervalo",
+      "onde": "Em frente à cantina",
+      "responsavel": "Equipe"
+    },
+    {
+      "dia": "Dia 10",
+      "o_que_sai": "Story «Teste agora» com o QR Code do cardápio",
+      "onde": "Instagram · stories",
+      "responsavel": "Tiago"
+    }
+  ],
+  "metas": {
+    "votos_na_enquete": 20,
+    "respostas_apos_o_teste": 10
+  }
+}
