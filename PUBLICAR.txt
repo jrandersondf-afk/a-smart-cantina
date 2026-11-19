@@ -1,0 +1,16 @@
+SMART CANTINA SENAI | MISSÃO 7
+
+Para testar localmente, extraia o ZIP inteiro e abra campanha.html.
+
+Para publicar junto com o sistema
+1. Abra o repositório do sistema no GitHub Desktop e selecione a branch usada pelo GitHub Pages.
+2. Copie campanha.html e a pasta campanha-assets inteira para a pasta que o Pages já publica. Eles devem ficar lado a lado com o index.html do sistema.
+3. Faça o commit e clique em Push origin. Se o sistema ainda não estiver publicado, configure o GitHub Pages em Settings > Pages para usar a branch e a pasta em que os arquivos ficaram.
+4. Assim que a publicação terminar, abra o endereço do site seguido de /campanha.html em outro celular. Confira o banner de TV, o PDF do cartaz e o botão do Figma.
+5. Use o endereço da campanha na entrega da escola.
+
+Se quiser abrir a campanha pelo menu do sistema, adicione um link para campanha.html no index.html do próprio sistema. O pacote mantém os arquivos da campanha numa pasta própria para facilitar essa integração.
+
+O endereço do protótipo usado no botão e no QR Code abriu a tela de login
+do Figma durante o teste sem conta. Confira se o professor tem permissão
+de visualização antes de usar o link na apresentação.
